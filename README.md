@@ -6,8 +6,6 @@ The workflow consolidates multi-year observational data, converts categorical fi
 
 This project demonstrates hands-on experience with data wrangling, feature engineering, and reproducible data pipelines using Python and Pandas. 
 
-hw1
-
 🛠 Tools & Technologies
 
 Python
